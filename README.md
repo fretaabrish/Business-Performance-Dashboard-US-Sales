@@ -25,7 +25,7 @@ The dashboard consolidates key metrics — **Sales**, **Profit**, **Number of Cu
 ## ⚙️ Process
 
 ### 1. Data Source
-- Kaggle – *Sample Superstore Dataset*
+- <a href="https://github.com/fretaabrish/Business-Performance-Dashboard-US-Sales/blob/main/Sample-Superstore.csv"> Kaggle – *Sample Superstore Dataset*</a>
 
 ### 2. Data Preparation
 - Cleaned and structured dataset using **Python (Pandas)**.  
