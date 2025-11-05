@@ -8,19 +8,24 @@ ________________________________________
 •	Visualize and track business performance using key sales metrics.
 
 •	Identify top-performing products and regions.
+
 •	Evaluate year-over-year sales growth and profitability.
+
 •	Demonstrate expertise in interactive dashboard design and analytical storytelling.
 ________________________________________
 ## 📊 Key Insights
 •	📈 Sales Growth: Continuous increase in annual sales from 2014–2017.
+
 •	💰 Top Products: Phones and Chairs are the highest revenue contributors.
+
 •	🗺️ Regional Performance: California, New York, and Texas lead in total sales.
+
 •	⚙️ Profitability: Overall profit ratio of 12.47%, suggesting scope for margin optimization.
 
 ________________________________________
 ## ⚙️ Process
 1.	Data Source:
-o	Kaggle – Sample Superstore Dataset
+  Kaggle – Sample Superstore Dataset
 2.	Data Preparation:
 o	Cleaned and structured dataset using Python (Pandas).
 o	Standardized columns, verified data types, and removed inconsistencies.
