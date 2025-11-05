@@ -29,7 +29,7 @@ The dashboard consolidates key metrics — **Sales**, **Profit**, **Number of Cu
 ## ⚙️ Process
 
 ### 1. Data Source
-- <a href="https://github.com/fretaabrish/Business-Performance-Dashboard-US-Sales/blob/main/Sample-Superstore.csv"> Kaggle – *Sample Superstore Dataset*</a>
+- <a href="https://github.com/fretaabrish/Business-Performance-Dashboard-US-Sales/blob/main/Sample-Superstore.csv"> *Sample Superstore Dataset*</a>
 
 ### 2. Data Preparation
 - Cleaned and structured dataset using **Python (Pandas)**.  
@@ -68,9 +68,10 @@ The dashboard consolidates key metrics — **Sales**, **Profit**, **Number of Cu
 ---
 
 ## 🧩 How to Use
-1. Open the Tableau workbook (`US_Sales_Dashboard.twbx`) or view it on Tableau Public.  
-2. Use filters to explore performance by **product category**, **state**, and **year**.  
-3. Hover over visuals for detailed tooltips and interactive comparisons.
+1. View the **dashboard screenshot** above for a quick overview of the visual insights.  
+2. Explore the supporting data and scripts in the repository folders.  
+3. Optionally, recreate or enhance the dashboard using the dataset provided.
+
 
 ---
 ## 📚 Dataset Reference
