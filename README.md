@@ -6,7 +6,7 @@ The dashboard consolidates key metrics — **Sales**, **Profit**, **Number of Cu
 
 ---
 ## 🖼️ Dashboard Preview
-![US Sales Dashboard](dashboard_screenshot.png)
+![US Sales Dashboard](Dashboard-Screenshot.png)
 
 ---
 
