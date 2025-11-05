@@ -6,6 +6,7 @@ The dashboard consolidates key metrics — Sales, Profit, Number of Customers, a
 ________________________________________
 ## 🎯 Objectives
 •	Visualize and track business performance using key sales metrics.
+
 •	Identify top-performing products and regions.
 •	Evaluate year-over-year sales growth and profitability.
 •	Demonstrate expertise in interactive dashboard design and analytical storytelling.
