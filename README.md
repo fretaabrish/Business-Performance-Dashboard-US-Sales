@@ -5,6 +5,10 @@ A data visualization project showcasing **business performance** insights throug
 The dashboard consolidates key metrics — **Sales**, **Profit**, **Number of Customers**, and **Profit Ratio** — and enables **dynamic exploration** by product category, state, and year through integrated interactive filters.
 
 ---
+## 🖼️ Dashboard Preview
+![US Sales Dashboard](dashboard_screenshot.png)
+
+---
 
 ## 🎯 Objectives
 - Visualize and track business performance using key sales metrics.  
