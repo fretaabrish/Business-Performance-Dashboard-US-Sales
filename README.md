@@ -27,9 +27,9 @@ ________________________________________
 1.	Data Source:
   Kaggle – Sample Superstore Dataset
 2.	Data Preparation:
-o	Cleaned and structured dataset using Python (Pandas).
-o	Standardized columns, verified data types, and removed inconsistencies.
-3.	Dashboard Development:
+- Cleaned and structured dataset using Python (Pandas).
+- Standardized columns, verified data types, and removed inconsistencies.
+4.	Dashboard Development:
 o	Designed KPIs for Sales, Profit, Profit Ratio, and Customer Count.
 o	Created visuals for:
 	Sales by Product (Horizontal Bar Chart)
